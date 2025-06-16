@@ -1,0 +1,4 @@
+/mnt/c/Users/shnapinut/Documents/shitz-projects/github-projects/vk-projects/test-task/vk-test-cpp-metrics/build/CMakeFiles/metrics_collector.dir
+/mnt/c/Users/shnapinut/Documents/shitz-projects/github-projects/vk-projects/test-task/vk-test-cpp-metrics/build/CMakeFiles/example.dir
+/mnt/c/Users/shnapinut/Documents/shitz-projects/github-projects/vk-projects/test-task/vk-test-cpp-metrics/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/shnapinut/Documents/shitz-projects/github-projects/vk-projects/test-task/vk-test-cpp-metrics/build/CMakeFiles/rebuild_cache.dir

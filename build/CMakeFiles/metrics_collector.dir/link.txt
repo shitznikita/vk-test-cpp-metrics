@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmetrics_collector.a CMakeFiles/metrics_collector.dir/metrics-collector/MetricsCollector.cpp.o
+/usr/bin/ranlib libmetrics_collector.a

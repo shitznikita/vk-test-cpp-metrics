@@ -1,8 +1,13 @@
-//
-// Created by shnapinut on 16.06.2025.
-//
+#pragma once
 
-#ifndef VK_TEST_CPP_METRICS_IMETRIC_H
-#define VK_TEST_CPP_METRICS_IMETRIC_H
+#include <string>
+#include <iostream>
 
-#endif //VK_TEST_CPP_METRICS_IMETRIC_H
+class IMetric {
+public:
+    virtual ~IMetric() = default;
+
+    virtual const std::string& getName() const = 0;
+    virtual void writeValue(std::ostream& out) const = 0;
+    virtual void reset() = 0;
+};
